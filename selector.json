@@ -1,0 +1,9 @@
+{
+	"register": {
+		"input_phone_number": "body > div.signup > div.phone > div > input",
+		"button_next": "#button-next",
+		"input_phone_number_verify": "body > div.signup > form > div.phone > div.vcode.input-underline > span:nth-child(1) > input",
+		"input_capcha": "body > div.signup > form > div.phone > div:nth-child(4) > input",
+		"button_continute": "#button-continue"
+	}
+}
